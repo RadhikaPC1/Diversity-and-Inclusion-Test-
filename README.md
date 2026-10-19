@@ -4,7 +4,7 @@ An interactive workforce analytics dashboard that turns complex HR data into cle
 
 **Tools:** SQL, Tableau
 **Domain:** HR / People Analytics
-**Dataset:** ~500 employee records *(replace with source, e.g. "Open-source HR dataset, Kaggle / Maven Analytics")*
+**Dataset:** ~500 employee records 
 
 ---
 
